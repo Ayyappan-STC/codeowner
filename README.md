@@ -7,20 +7,6 @@ How to Create and Use a CODEOWNERS File
     Wildcards: Patterns like * can be used to match files or directories.
 
 
-For example:
-# CODEOWNERS file example
-# Set @user-1 as the owner for all files
-* @user-1
-  
-# Assign @user-2 to all files in the docs directory
-/docs/* @user-2
-
-# Assign a team to a specific directory
-/src/ @my-org/dev-users
-
-# Assign multiple users to a specific file
-/src/main.java @user-1 @user-2
-
 3.	Matching Patterns: The CODEOWNERS file supports the following pattern types:
         - / matches from the root directory.
         - * matches any number of characters (wildcard).
