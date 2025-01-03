@@ -9,7 +9,7 @@ How to Create and Use a CODEOWNERS File
 
 For example:
 # CODEOWNERS file example
-# Set @user-1 as the owner for all files
+**# Set @user-1 as the owner for all files**
 * @user-1
 
 # Assign @user-2 to all files in the docs directory
