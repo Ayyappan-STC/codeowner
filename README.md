@@ -20,7 +20,7 @@ How to Create and Use a CODEOWNERS File
 Note: The CODEOWNERS file has a hierarchical system where the most specific pattern takes priority over more general patterns. For instance, /src/main.py will take precedence over /src/*.
 
 Why do we need this?
-To Ensure that the appropriate people are notified about changes to the codebase.
-To Enforce code review policies to maintain code quality and security.
-Streamline the review process and making it more efficient.
+1. To Ensure that the appropriate people are notified about changes to the codebase.
+2. To Enforce code review policies to maintain code quality and security.
+3. Streamline the review process and making it more efficient.
 
